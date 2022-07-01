@@ -20,10 +20,12 @@ html {
 }
 
 body {
-    background: linear-gradient(to bottom, rgb(12, 13, 14), #0e0e0e81), url(imagens/STORIES.jpg);
-    background-position: top;
-    background-position-y: -0px;
+    background: linear-gradient(to bottom, rgb(12, 13, 14), #0e0e0e81), url(imagens/MOCKUP\ 3D.jpg);
+    background-position: left right;
+    background-size: cover;
+    /* background-size: 1400px 750px; */
     background-repeat: no-repeat;
+
 }
 
 header {
@@ -87,7 +89,7 @@ header {
     height: 1px;
     color: white;
     background-color: #F08503;
-    transition: all 1s ease;
+    transition: all 0.7s ease;
 }
 
 #sub {
@@ -176,7 +178,7 @@ main {
     height: 60px;
     background-color: rgb(61, 61, 61);
     z-index: -1;
-    transition: 1s;
+    transition: 0.5s;
 }
 
 .btns button:hover:before {
