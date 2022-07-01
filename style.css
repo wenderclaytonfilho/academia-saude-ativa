@@ -20,8 +20,9 @@ html {
 }
 
 body {
+    height: 98vh;
     background: linear-gradient(to bottom, rgb(12, 13, 14), #0e0e0e81), url(imagens/MOCKUP\ 3D.jpg);
-    background-position: left right;
+    background-position: center center;
     background-size: cover;
     /* background-size: 1400px 750px; */
     background-repeat: no-repeat;
