@@ -20,12 +20,9 @@ html {
 }
 
 body {
-    background: linear-gradient(to bottom, rgb(12, 13, 14), #0e0e0e81), url(imagens/MOCKUP\ 3D.jpg);
-    width: 100%;
-    margin: auto;
-    background-position: center center;
-    background-size: cover;
-    background-position-y: 0px;
+    background: linear-gradient(to bottom, rgb(12, 13, 14), #0e0e0e81), url(imagens/STORIES.jpg);
+    background-position: top;
+    background-position-y: -0px;
     background-repeat: no-repeat;
 }
 
